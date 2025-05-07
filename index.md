@@ -1,6 +1,7 @@
 ---
 title: "Brendan Chen"
 layout: default
+isIndexPage: 1
 ---
 
 # Brendan Chen

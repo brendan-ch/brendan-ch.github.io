@@ -9,6 +9,15 @@ body {
     align-items: center;
 }
 
+nav {
+    max-width: 720px;
+    width: 100%;
+}
+
+.nav-home-icon {
+    max-width: 64px;
+}
+
 main {
     max-width: 720px;
     width: 100%;
@@ -27,7 +36,7 @@ a {
 }
 
 @media screen and (min-width: 720px) {
-    main {
+    nav {
         padding-top: 32px;
     }
 }
