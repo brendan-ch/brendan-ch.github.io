@@ -23,5 +23,5 @@ I'm simply interested in creating with software, experimenting with ideas, and l
 
 ## More links
 
-- [My resume](/assets/resume.pdf)
+- <a href="/assets/resume.pdf" target="_blank">Resume</a>
 - [Projects](/projects)
