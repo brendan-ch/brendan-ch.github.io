@@ -20,7 +20,7 @@ I'm simply interested in creating with software, experimenting with ideas, and l
 - <a href="https://linkedin.com/in/brendan-ch" target="_blank">LinkedIn</a>
 - <a href="https://github.com/brendan-ch" target="_blank">GitHub</a>
 
-## Quick links
+## More links
 
 - [My resume](/assets/resume.pdf)
 - [Projects](/projects)
