@@ -15,8 +15,8 @@ I'm simply interested in creating with software, experimenting with ideas, and l
 ## Find me
 
 - [me@bchen.dev](mailto:me@bchen.dev)
-- [LinkedIn](https://linkedin.com/in/brendan-ch)
-- [GitHub](https://github.com/brendan-ch)
+- <a href="https://linkedin.com/in/brendan-ch" target="_blank">LinkedIn</a>
+- <a href="https://github.com/brendan-ch" target="_blank">GitHub</a>
 
 ## Quick links
 
