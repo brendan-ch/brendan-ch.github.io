@@ -12,6 +12,8 @@ I'm also actively engaged in student organizations such as Seishun Taiko and Pan
 
 I'm simply interested in creating with software, experimenting with ideas, and learning from others. I view programming and engineering as creative outlets where I can put people, both customers and teammates, at the center of everything I do.
 
+![me.png](assets/me.png)
+
 ## Find me
 
 - [me@bchen.dev](mailto:me@bchen.dev)
