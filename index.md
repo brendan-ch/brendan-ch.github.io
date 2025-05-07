@@ -24,4 +24,3 @@ I'm simply interested in creating with software, experimenting with ideas, and l
 
 - [My resume](/assets/resume.pdf)
 - [Projects](/projects)
-- [Student organizations](/student-organizations)
