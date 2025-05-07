@@ -34,3 +34,67 @@ UI development, artwork integration, and version control. There were so many
 moving parts, and I really aimed to get as much input for the gameplay design
 as I could from the team.
 
+[Play the game on itch.io!](- [itch.io (play the game!)](https://bchendev.itch.io/dont-wake-sandie))
+
+## Sourcebook
+
+![sourcebook.png](assets/sourcebook.png "Screenshot of Sourcebook, a lightweight CMS for class websites.")
+
+**A lightweight content management system (CMS) designed to build class websites.**
+I designed it to be a self-hosted alternative for popular apps like Notion, while
+offering additional features tailored to support schoolwork.
+
+I designed an entity-relationship diagram, MySQL database schema, and HTML/CSS
+high-fidelity prototype to support the project and show to professors. I then
+built a lightweight full-stack application using Python, Flask, and MySQL.
+
+- [GitHub](https://github.com/brendan-ch/sourcebook)
+
+## Tad-Pool
+
+![tad-pool.png](assets/tad-pool.png "Screenshots of Tad-Pool, a carpooling app for college students.")
+
+**A mobile app designed to make carpooling easier for college students.**
+Find carpools based on time and location, and get rewarded for helping to reduce
+CO2 emissions. I worked with [Jazmine Stanek](https://www.linkedin.com/in/vjazminestanek/)
+and [Isabelle Woo](https://www.linkedin.com/in/isabellewoo/) to create the UI/UX
+design using Figma and FigJam, in a period of 24 hours for
+[FullyBeyond 2024](https://fullybeyond.acmcsuf.com/).
+
+The project reached the finalist judging stage.
+
+- Figma designs
+    - [Low-fidelity](https://www.figma.com/design/nTKCcwftKrg27wlP5mmy9e/Tad-Pool-Design?node-id=0-1&node-type=canvas&t=YKuVvM6RAPs4hTIo-11)
+    - [High-fidelity](https://www.figma.com/design/nTKCcwftKrg27wlP5mmy9e/Tad-Pool-Design?node-id=13-1837&node-type=canvas&t=YKuVvM6RAPs4hTIo-11)
+- [FigJam board](https://www.figma.com/board/Dct7GuhKFYq8maw0KoAVBV/Product-Brainstorm-FullyBeyond?node-id=0-1&node-type=canvas&t=g7RKLLo5IoU84ndk-11)
+- [Devpost](https://devpost.com/software/tad-pool)
+
+## Power to the People
+
+![power-to-the-people.png](assets/power-to-the-people.png "Screenshots of Power to the People, an iOS app designed to make traffic stops safer.")
+
+**An iPhone app designed to make traffic stops safer for marginalized communities.**
+Record interactions with police, assign and text emergency contacts, and be informed
+of your rights. I led a student team of 4 to build a minimum viable product using
+SwiftUI, in 36 hours. The app was selected for the **Organizer’s Pick award** at
+[CruzHacks 2024](https://cruzhacks.com/), the premier hackathon of UC Santa Cruz.
+
+- [GitHub](https://github.com/brendan-ch/PowerToThePeople)
+- [Devpost](https://devpost.com/software/power-to-the-people-lbhxyd)
+
+## The Farmer's Dog Trivia Game
+
+![farmers-dog.png](assets/farmers-dog.png)
+
+**A Windows kiosk application designed to connect customers with the Farmer's
+Dog experience.** Play the interactive trivia game, score points, and win swag!
+I worked with [Walter Cheng](https://www.linkedin.com/in/walter-j-cheng/) to
+plan out dependencies and requirements, set up the codebase, and implement the
+screens for the app using React Native for Windows. 
+
+"I’ve worked with Brendan for many years, and he is the first person I turn to
+for web/app development. He’s knowledgeable and efficient, and his task
+management skills make him an ideal project member." — Walter Cheng, project overseer
+
+- [The Farmer’s Dog](https://thefarmersdog.com/)
+
