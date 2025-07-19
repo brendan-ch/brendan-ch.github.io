@@ -3,7 +3,7 @@ title: "Journal"
 layout: default
 ---
 
-<h1>Journal</h1>
+<h1>Blog</h1>
 
 {% assign posts_by_month = site.posts | group_by_exp: "post", "post.date | date: '%B %Y'" %}
 {% for month in posts_by_month %}
