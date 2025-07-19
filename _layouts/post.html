@@ -2,6 +2,12 @@
 layout: default
 ---
 
-<a href="/journal">Back</a>
+<link rel="stylesheet" href="/assets/blog.css">
+
+<div class="infobar">
+    <a href="/blog">All posts</a>
+    •
+    <p>{{ page.date | date: "%Y.%m.%d" }}</p>
+</div>
 
 {{ content }}

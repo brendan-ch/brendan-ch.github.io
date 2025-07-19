@@ -1,0 +1,10 @@
+.infobar {
+    display: flex;
+    flex-direction: row;
+    margin-bottom: 1rem;
+    gap: 8px;
+}
+
+.infobar p {
+    margin: 0;
+}

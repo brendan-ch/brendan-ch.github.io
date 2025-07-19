@@ -1,6 +1,7 @@
 ---
 title: "Hello World"
 layout: post
+date: 2025.07.18
 ---
 # Welcome
 
