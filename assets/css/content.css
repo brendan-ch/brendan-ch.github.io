@@ -1,0 +1,24 @@
+/* Custom classes for styling elements on a page, such as links */
+
+.horizontal-wrapper {
+    display: flex;
+    flex-direction: row;
+    gap: 8px;
+}
+
+.primary-action {
+    background: black;
+    padding: 0.8em;
+    color: white;
+    text-decoration-line: unset;
+    border-radius: 4px;
+}
+
+.secondary-action {
+    border-width: 1px;
+    border-style: solid;
+    border-color: black;
+    padding: 0.8em;
+    text-decoration-line: unset;
+    border-radius: 4px;
+}

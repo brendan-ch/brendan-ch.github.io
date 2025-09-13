@@ -12,17 +12,18 @@ at [Cargill](https://cargill.com), working within the Branded Feed business to c
 new digital experiences. I'm also working on [Interchange](https://interchange.bchen.dev), an app to
 streamline the college transit experience.
 
-I'm simply interested in creating with software, experimenting with ideas, and learning from others. I view programming and engineering as creative outlets where I can put people, both customers and teammates, at the center of everything I do.
+I'm simply interested in creating with software, experimenting with ideas,
+and learning from others. I view programming and engineering as creative
+outlets where I can put people, both customers and teammates, at the center
+of everything I do.
+
+My preferred contact method is [via email](mailto:me@bchen.dev). You may
+also find me on [LinkedIn](https://linkedin.com/in/brendan-ch) and
+[GitHub](https://github.com/brendan-ch).
+
+<div class="horizontal-wrapper">
+    <a class="primary-action" href="/projects">View projects</a>
+    <a class="secondary-action" href="/assets/resume.pdf" target="_blank">View resume</a>
+</div>
 
 ![me.png](assets/me.png)
-
-## Find me
-
-- [me@bchen.dev](mailto:me@bchen.dev)
-- <a href="https://linkedin.com/in/brendan-ch" target="_blank">LinkedIn</a>
-- <a href="https://github.com/brendan-ch" target="_blank">GitHub</a>
-
-## More links
-
-- <a href="/assets/resume.pdf" target="_blank">Resume</a>
-- [Projects](/projects)
