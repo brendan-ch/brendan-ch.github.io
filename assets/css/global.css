@@ -42,13 +42,20 @@ a {
 }
 
 h1, h2, h3, h4, h5, h6 {
+    margin-top: 2em;
     font-family: 'FormaDJRDisplay', sans-serif;
 }
 
-@media screen and (min-width: 720px) {
-    main {
-        padding-top: 32px;
-    }
+h1 {
+    font-size: 3em;
+}
+
+h2 {
+    font-size: 2em;
+}
+
+h3 {
+    font-size: 1.5em;
 }
 
 img {
