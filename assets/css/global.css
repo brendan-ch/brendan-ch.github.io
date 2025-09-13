@@ -20,7 +20,6 @@ header {
     z-index: 1001;
 }
 
-
 main {
     max-width: 720px;
     width: 100%;
@@ -39,7 +38,9 @@ a {
     color: unset;
 }
 
-
+h1, h2, h3, h4, h5, h6 {
+    font-family: 'FormaDJRDisplay', sans-serif;
+}
 
 @media screen and (min-width: 720px) {
     main {
