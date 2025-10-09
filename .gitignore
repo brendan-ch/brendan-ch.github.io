@@ -6,3 +6,6 @@ _site/
 .bundle/
 vendor/
 .idea/
+
+# macOS
+.DS_Store
