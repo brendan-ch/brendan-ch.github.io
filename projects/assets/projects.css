@@ -1,0 +1,23 @@
+/* Styles used exclusively for projects */
+
+.project-card {
+    border: 1px solid black;
+    padding: 16px;
+}
+
+.project-card .horizontal {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.project-card .horizontal :is(h1, h2, h3, h4, h5, h6) {
+    margin-top: 0;
+    margin-bottom: 0;
+}
+
+.project-card .horizontal img {
+    width: 48px;
+    height: 48px;
+}
