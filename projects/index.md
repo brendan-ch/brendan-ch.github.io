@@ -13,10 +13,10 @@ layout: default
 View routes, shuttle locations, and estimated arrival times in a sleek, easy-to-use
 interface. I built this app to address a gap in user experience, and this is just the beginning, with much more to come in the future.
 
-[<img src="assets/app-store-icon.svg" alt="Download on the App Store!">](https://apps.apple.com/us/app/interchange-college-commute/id6739968742)
-
-- [Join the TestFlight](https://testflight.apple.com/join/HbuHfUgW) and share your feedback today!
-- [Website](https://interchange.bchen.dev/)
+[Download on the App Store](https://apps.apple.com/us/app/interchange-college-commute/id6739968742){: .primary-action }
+[Join the TestFlight](https://testflight.apple.com/join/HbuHfUgW){: .secondary-action }
+[Website](https://interchange.bchen.dev/){: .secondary-action }
+{: .horizontal-wrapper }
 
 ## Don't Wake Sandie
 
@@ -33,7 +33,8 @@ UI development, artwork integration, and version control. There were so many
 moving parts, and I really aimed to get as much input for the gameplay design
 as I could from the team.
 
-[Play the game on itch.io!](- [itch.io (play the game!)](https://bchendev.itch.io/dont-wake-sandie))
+[Play the game on itch.io!](- [itch.io (play the game!)](https://bchendev.itch.io/dont-wake-sandie)){: .primary-action }
+{: .horizontal-wrapper }
 
 ## Sourcebook
 
@@ -47,7 +48,8 @@ I designed an entity-relationship diagram, MySQL database schema, and HTML/CSS
 high-fidelity prototype to support the project and show to professors. I then
 built a lightweight full-stack application using Python, Flask, and MySQL.
 
-- [GitHub](https://github.com/brendan-ch/sourcebook)
+[GitHub](https://github.com/brendan-ch/sourcebook){: .primary-action }
+{: .horizontal-wrapper }
 
 ## Tad-Pool
 
@@ -62,11 +64,11 @@ design using Figma and FigJam, in a period of 24 hours for
 
 The project reached the finalist judging stage.
 
-- Figma designs
-    - [Low-fidelity](https://www.figma.com/design/nTKCcwftKrg27wlP5mmy9e/Tad-Pool-Design?node-id=0-1&node-type=canvas&t=YKuVvM6RAPs4hTIo-11)
-    - [High-fidelity](https://www.figma.com/design/nTKCcwftKrg27wlP5mmy9e/Tad-Pool-Design?node-id=13-1837&node-type=canvas&t=YKuVvM6RAPs4hTIo-11)
-- [FigJam board](https://www.figma.com/board/Dct7GuhKFYq8maw0KoAVBV/Product-Brainstorm-FullyBeyond?node-id=0-1&node-type=canvas&t=g7RKLLo5IoU84ndk-11)
-- [Devpost](https://devpost.com/software/tad-pool)
+[High-fidelity design](https://www.figma.com/design/nTKCcwftKrg27wlP5mmy9e/Tad-Pool-Design?node-id=13-1837&node-type=canvas&t=YKuVvM6RAPs4hTIo-11){: .primary-action }
+[Low-fidelity design](https://www.figma.com/design/nTKCcwftKrg27wlP5mmy9e/Tad-Pool-Design?node-id=0-1&node-type=canvas&t=YKuVvM6RAPs4hTIo-11){: .secondary-action }
+[FigJam board](https://www.figma.com/board/Dct7GuhKFYq8maw0KoAVBV/Product-Brainstorm-FullyBeyond?node-id=0-1&node-type=canvas&t=g7RKLLo5IoU84ndk-11){: .secondary-action }
+[Devpost](https://devpost.com/software/tad-pool){: .secondary-action }
+{: .horizontal-wrapper }
 
 ## Power to the People
 
@@ -78,8 +80,9 @@ of your rights. I led a student team of 4 to build a minimum viable product usin
 SwiftUI, in 36 hours. The app was selected for the **Organizer’s Pick award** at
 [CruzHacks 2024](https://cruzhacks.com/), the premier hackathon of UC Santa Cruz.
 
-- [GitHub](https://github.com/brendan-ch/PowerToThePeople)
-- [Devpost](https://devpost.com/software/power-to-the-people-lbhxyd)
+[GitHub](https://github.com/brendan-ch/PowerToThePeople){: .primary-action }
+[Devpost](https://devpost.com/software/power-to-the-people-lbhxyd){: .secondary-action }
+{: .horizontal-wrapper }
 
 ## The Farmer's Dog Trivia Game
 
@@ -95,5 +98,5 @@ screens for the app using React Native for Windows.
 for web/app development. He’s knowledgeable and efficient, and his task
 management skills make him an ideal project member." — Walter Cheng, project overseer
 
-- [The Farmer’s Dog](https://thefarmersdog.com/)
-
+[The Farmer’s Dog](https://thefarmersdog.com/){: .primary-action }
+{: .horizontal-wrapper }
