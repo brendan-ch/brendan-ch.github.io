@@ -11,8 +11,7 @@ layout: default
 
 **An iOS app for college transit, currently available for Chapman University.** 
 View routes, shuttle locations, and estimated arrival times in a sleek, easy-to-use
-interface. I built this app to address a gap in user experience, and this is
-just the beginning, with much more to come in the future.
+interface. I built this app to address a gap in user experience, and this is just the beginning, with much more to come in the future.
 
 [<img src="assets/app-store-icon.svg" alt="Download on the App Store!">](https://apps.apple.com/us/app/interchange-college-commute/id6739968742)
 
