@@ -1,6 +1,6 @@
 ---
 title: Don't Wake Sandie
-layout: default
+layout: project
 ---
 
 # Don't Wake Sandie

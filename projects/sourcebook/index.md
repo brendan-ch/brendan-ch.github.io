@@ -1,9 +1,7 @@
 ---
 title: Sourcebook
-layout: default
+layout: project
 ---
-
-# Sourcebook
 
 ![sourcebook.png](assets/sourcebook.png "Screenshot of Sourcebook, a lightweight CMS for class websites.")
 

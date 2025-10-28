@@ -1,9 +1,7 @@
 ---
 title: The Farmer's Dog Trivia Game
-layout: default
+layout: project
 ---
-
-# The Farmer's Dog Trivia Game
 
 ![farmers-dog.png](assets/farmers-dog.png)
 

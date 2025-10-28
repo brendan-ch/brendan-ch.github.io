@@ -1,9 +1,7 @@
 ---
 title: Interchange
-layout: default
+layout: project
 ---
-
-# Interchange
 
 ![interchange-screenshots.png](assets/interchange-screenshots.png "Screenshots of Interchange.")
 

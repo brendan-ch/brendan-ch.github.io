@@ -1,9 +1,7 @@
 ---
 title: Tad-Pool
-layout: default
+layout: project
 ---
-
-# Tad-Pool
 
 ![tad-pool.png](assets/tad-pool.png "Screenshots of Tad-Pool, a carpooling app for college students.")
 

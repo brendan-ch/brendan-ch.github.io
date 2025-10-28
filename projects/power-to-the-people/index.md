@@ -1,9 +1,7 @@
 ---
 title: Power to the People
-layout: default
+layout: project
 ---
-
-# Power to the People (CruzHacks 2024 President's Pick)
 
 ![power-to-the-people.png](assets/power-to-the-people.png "Screenshots of Power to the People, an iOS app designed to make traffic stops safer.")
 

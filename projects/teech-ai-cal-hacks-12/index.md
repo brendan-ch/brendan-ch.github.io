@@ -1,9 +1,7 @@
 ---
 title: teech.ai (Cal Hacks 12.0)
-layout: default
+layout: project
 ---
-
-# teech.ai (Cal Hacks 12.0)
 
 <iframe type="text/html" style="width: 100%; height: 400px; border-radius: 1px; pointer-events: auto; background-color: white;" src="https://www.youtube.com/embed/luVIdLB9id0?enablejsapi=1&amp;hl=en_US&amp;rel=0&amp;start=&amp;version=3&amp;wmode=transparent" allowfullscreen="allowfullscreen" frameborder="0" allowscriptaccess="always" webkitallowfullscreen="true" wmode="transparent" mode="transparent" class="video-embed"></iframe>
 
