@@ -126,8 +126,16 @@
     left: 0;
     bottom: 100%;
     margin-bottom: 0.5rem;
+    display: flex;
+    flex-direction: row;
+    gap: 8px;
 }
 
 .project-header .breadcrumb-wrapper a {
+    display: inline-block;
+}
+
+.project-header .breadcrumb-wrapper p {
+    margin: 0;
     display: inline-block;
 }
