@@ -1,9 +1,13 @@
 ---
-title: "Journal"
+title: "(Tech)notes"
 layout: default
 ---
 
-<h1>Blog</h1>
+<h1>(Tech)notes</h1>
+
+Documenting work-in-progress projects, learnings, and more.
+
+<p></p>
 
 {% assign posts_by_month = site.posts | group_by_exp: "post", "post.date | date: '%B %Y'" %}
 {% for month in posts_by_month %}

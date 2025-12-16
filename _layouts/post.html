@@ -2,12 +2,11 @@
 layout: default
 ---
 
-<link rel="stylesheet" href="/assets/css/blog.css">
-
-<div class="infobar">
-    <a href="/blog">All posts</a>
-    •
-    <p>{{ page.date | date: "%Y.%m.%d" }}</p>
+<div class="project-header">
+    <div class="breadcrumb-wrapper">
+        <a href="/blog">All technotes</a>
+    </div>
+    <h1>{{ page.title }}</h1>
 </div>
 
 {{ content }}
