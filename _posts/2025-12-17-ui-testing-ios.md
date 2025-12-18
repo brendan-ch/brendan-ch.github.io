@@ -50,7 +50,7 @@ XCUIDevice.shared.system.open(url)
 
 The major consideration is that the Apple app-domain association file can take several seconds to download after the simulator boots. Not having this file downloaded can cause the link to open in Safari instead, like in this failed test run:
 
-<video width="400" height="880" controls src="/assets/blog/2025-12-17-ui-testing-ios/test-runner-open-in-safari.mp4" title="Universal link URL opening in Safari instead of app"></video>
+<video width="320" height="700" controls src="/assets/blog/2025-12-17-ui-testing-ios/test-runner-open-in-safari.mp4" title="Universal link URL opening in Safari instead of app"></video>
 
 ## CI/CD
 
@@ -60,7 +60,7 @@ I use GitHub Actions, and a macOS runner there is [**10x the cost** of an Ubuntu
 
 The hardware limitations of a CI runner can often cause the simulator to lag. Here's an example of what mock user sign-in looks like on the GitHub CI runner:
 
-<video width="400" height="880" controls src="/assets/blog/2025-12-17-ui-testing-ios/test-runner-lag.mp4" title="Example of sign-in on CI runner"></video>
+<video width="320" height="700" controls src="/assets/blog/2025-12-17-ui-testing-ios/test-runner-lag.mp4" title="Example of sign-in on CI runner"></video>
 
 From what I've researched, the way to handle this is to use timeouts via **waitForExistence**. While I've mostly gotten used to this idea by now, I still feel like there's a less flaky way to handle this. At the very least, I could create a default for how long to wait for an element; I plan on going back back and tweaking the tests this way.
 
