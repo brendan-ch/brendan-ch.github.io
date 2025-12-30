@@ -4,7 +4,7 @@ layout: post
 date: 2025.12.30
 ---
 
-Happy holidays! This is part of a series of notes detailing my college experience. I originally entered the [Fowler School of Engineering](https://www.chapman.edu/engineering/index.aspx) as a computer science major in fall 2022, and switched to software engineering in spring 2023. I've technically reached all my graduation requirements now, but still plan on walking with the class of 2026. In the meantime, I thought it might be good to look back on the experience.
+*Happy holidays! This is part of a series of notes detailing my college experience. I originally entered the [Fowler School of Engineering](https://www.chapman.edu/engineering/index.aspx) as a computer science major in fall 2022, and switched to software engineering in spring 2023. I've technically reached all my graduation requirements now, but still plan on walking with the class of 2026. In the meantime, I thought it might be good to look back on the experience.*
 
 To put this note into perspective, ChatGPT released on November 30th, 2022. Excluding a few months, my graduating class at Chapman University was the first to have easy access to LLMs for almost the entire college experience.
 
