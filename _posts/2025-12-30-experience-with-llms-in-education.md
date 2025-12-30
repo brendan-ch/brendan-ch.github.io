@@ -41,6 +41,8 @@ Those same professors would subsequently ban AI assistance on quizzes and exams,
 
 Other professors fully embraced AI. For software engineering at Chapman, there is a separate track of classes focused on engineering methodologies, software design patterns, and other topics. In one class, I remember getting full points for an assignment where all I did was submit a [v0](https://v0.app)-generated design along with some LLM-generated documentation. To be clear: the professor encouraged this, and I was fully transparent with how I used AI to do the assignment. Subsequent assignments were the same, and even the provided instructions and templates had clear tells of being AI-generated.
 
+![v0 app screenshot showing how I generated one of my assignments for a software engineering class.](/assets/blog/2025-12-30-experience-with-llms-in-education/v0-app-screenshot.png)
+
 In retrospect, I think I experienced the vicious cycle that AI can bring to education: the educator generates assignment details with AI, students' submissions are AI-generated, and the educator likely reviews and grades submissions with AI. [With how inherent gender and racial biases are in current-generation LLMs](https://thenoosphere.substack.com/p/theres-a-reason-women-arent-swooning), this cycle has the potential to discriminate against women, people of color, and other groups underrepresented in technology.
 
 All of this to say: as a student, one does not need to look to the industry to see the consequences of vibe coding; those consequences are probably happening right in front of you. Between seeing students using it for projects, to LLM-generated assignments by professors, my college experience was significantly altered by this technology.
