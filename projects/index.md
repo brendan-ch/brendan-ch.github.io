@@ -12,7 +12,7 @@ layout: default
 - [Sourcebook](/projects/sourcebook)
     - A lightweight content management system (CMS) for class websites.
 - [Don't Wake Sandie](/projects/dont-wake-sandie)
-    - A game about not waking up…a hungover corgi
+    - A game about not waking up a beloved hungover corgi
 
 ## Hackathons
 
@@ -30,3 +30,8 @@ layout: default
 
 - [The Farmer's Dog Trivia Game](/projects/the-farmers-dog-trivia)
     - A Windows kiosk application designed to connect customers with the Farmer's Dog experience.
+
+## Community
+
+- [CMES Mobile App](/projects/cmes-mobile/)
+    - One of my earliest projects. A cross-platform mobile app to deliver educational medical content to end users, part of [Techies Without Borders](https://techieswithoutborders.us/).
