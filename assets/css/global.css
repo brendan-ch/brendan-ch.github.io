@@ -43,7 +43,7 @@ a {
     color: unset;
 }
 
-p, a {
+p, a, ul, ol {
     letter-spacing: 0.2px;
 }
 
