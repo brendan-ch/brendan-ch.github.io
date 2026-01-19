@@ -15,13 +15,13 @@ layout: default
 
 <div class="project-footer">
     <div>
-        {% if page.previous != nil %}
-            <a href="{{ page.previous.url }}">Previous</a>
+        {% if page.next != nil %}
+            <a href="{{ page.next.url }}">Newer</a>
         {% endif %}
     </div>
     <div>
-        {% if page.next != nil %}
-            <a href="{{ page.next.url }}">Next</a>
+        {% if page.previous != nil %}
+            <a href="{{ page.previous.url }}">Older</a>
         {% endif %}
     </div>
 </div>
