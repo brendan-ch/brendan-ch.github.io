@@ -43,8 +43,10 @@ a {
     color: unset;
 }
 
+/* Improve readability for smaller text, especially in long paragraphs */
 p, a, ul, ol {
     letter-spacing: 0.2px;
+    line-height: 24px;
 }
 
 h1, h2, h3, h4, h5, h6 {
