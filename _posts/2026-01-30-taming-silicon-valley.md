@@ -4,7 +4,7 @@ layout: post
 date: 2026.01.30
 ---
 
-*Taming Silicon Valley* by Gary Marcus does a pretty good job of summarizing the AI industry. As a book which came out in 2024, I was surprised how well the fundamentals held up reading it in 2026.
+[*Taming Silicon Valley* by Gary Marcus](https://mitpress.mit.edu/9780262551069/taming-silicon-valley/) does a pretty good job of summarizing the AI industry. As a book which came out in 2024, I was surprised how well the fundamentals held up reading it in 2026.
 
 I think for the most part, the flaws of generative AI are obvious by now, and the book confirmed what I already knew. Hallucinations are still prevalent from the latest models like GPT-5[^1]. Gary Marcus has been spot on with many his predictions for the industry; for instance, he predicted that GPT-5 would be a flop, with the usual reasoning errors, and additional backlash from users.
 
