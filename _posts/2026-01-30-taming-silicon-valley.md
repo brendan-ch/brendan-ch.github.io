@@ -16,6 +16,8 @@ On manipulating public opinion, AI labs tend to emphasize the powerfulness of mo
 
 The book isn't anti-AI, and neither am I. Going a step further, I'm not anti-LLMs, either, and I think they bring immense value to the software engineering space. What this book does is call out what's happening *around* this technology. Going back a decade, the original intent of social media may truly have been to create a global "town square" or to connect friends and family. Money has corrupted that promise and turned the social media premise into a web of targeted advertising and engagement-driven algorithms, laying the foundation for misinformation and other consequences. A repeat is inevitable for AI if the current status quo is maintained.
 
+## References
+
 [^1]: [Example by Colin Fraser on X](https://x.com/colin_fraser/status/1953668411029909892)
 [^2]: [Sparks of Artificial General Intelligence: Early experiments with GPT-4](https://arxiv.org/abs/2303.12712)
 [^3]: Turns out he [backtracked his statement](https://www.the-independent.com/tech/chatgpt-ai-agi-sam-altman-openai-b2419449.html) to say he was "just memeing".
