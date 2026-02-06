@@ -10,7 +10,7 @@ isIndexPage: 1
 
 I'm simply interested in creating with software, experimenting with ideas, and learning from others. I view programming and engineering as creative outlets where I can apply my technical expertise to solve traditionally hard problems.
 
-My preferred contact method is [via email](mailto:me@bchen.dev). You may also find me on [LinkedIn](https://linkedin.com/in/brendan-ch) and [GitHub](https://github.com/brendan-ch).
+I'm on [GitHub](https://github.com/brendan-ch), [Substack](https://bchendev.substack.com) and [LinkedIn](https://linkedin.com/in/brendan-ch). You may also [email me](mailto:me@bchen.dev).
 
 <div class="horizontal-wrapper">
     <a class="primary-action" href="/projects">View projects</a>
