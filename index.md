@@ -6,7 +6,7 @@ isIndexPage: 1
 
 # Brendan Chen
 
-**I'm Brendan, a fourth-year Software Engineering student at [Chapman University](https://chapman.edu/).** I was previously a digital technology intern at [Cargill](https://cargill.com), working within the Branded Feed business to create new digital experiences. I'm the creator of [Interchange](https://interchange.bchen.dev), a free app to streamline the Chapman transit experience.
+**I'm Brendan, a recently graduated Software Engineering student at [Chapman University](https://chapman.edu/).** I was previously a digital technology intern at [Cargill](https://cargill.com), working in the Branded Feed business to create new digital experiences. I'm the creator of [Interchange](https://interchange.bchen.dev), a free app to streamline the Chapman transit experience.
 
 I'm simply interested in creating with software, experimenting with ideas, and learning from others. I view programming and engineering as creative outlets where I can apply my technical expertise to solve traditionally hard problems.
 
