@@ -9,6 +9,8 @@ layout: default
 
 - [Interchange](/projects/interchange)
     - An iOS app for college transit, now on the App Store!
+- [Timestamp](/projects/timestamp)
+    - An unintrusive, open source Pomodoro timer for macOS.
 - [Sourcebook](/projects/sourcebook)
     - A lightweight content management system (CMS) for class websites.
 - [Don't Wake Sandie](/projects/dont-wake-sandie)
