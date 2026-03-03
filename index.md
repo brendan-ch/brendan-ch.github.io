@@ -12,7 +12,7 @@ I recently published an essay on Substack, [writing about how I experienced LLMs
 
 I see myself as a technologist interested in creating with software and learning from others. I view programming as a creative outlet: one where I continuously [wrangle the machine](https://blog.jsbarretto.com/post/on-llms) to create a boring solution.
 
-I'm on [Substack](https://bchendev.substack.com?utm_source=bchen.dev), [GitHub](https://github.com/brendan-ch), and [LinkedIn](https://linkedin.com/in/brendan-ch). You may also [email me](mailto:me@bchen.dev).
+I'm on [Substack](https://bchendev.substack.com?utm_source=bchen.dev) and [LinkedIn](https://linkedin.com/in/brendan-ch). You may also [email me](mailto:me@bchen.dev), or check out my projects on my [Gitea](https://gitea.bchen.dev/brendan) or [GitHub](https://github.com/brendan-ch) profiles.
 
 <div class="horizontal-wrapper">
     <a class="primary-action" href="/projects">View projects</a>
