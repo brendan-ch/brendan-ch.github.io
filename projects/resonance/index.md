@@ -15,6 +15,6 @@ My first project was to implement networking for **Arena**, a free-for-all PVP g
 
 Another project was the **build system**. Having a server dependency and Steam integration meant that the environment differed from development to production. We found it painful to prepare a build for each class-mandated playtest. With the help of Claude, I created a two-step system: an editor script to build and configure dependencies in one step, and a nightly GitHub Actions pipeline. Besides simplifying the build process, this created another positive side effect by ensuring we fixed compiler issues proactively.
 
-I'm currently working on a client-side prediction model for fairer gameplay, more akin to other FPS games on the market.
+I'm currently working on a client-side prediction model to match other FPS games on the market.
 
 Even with our team size, the most important thing I learned was how to manage scope and scale. Each one of us pushed ourselves to the limits of our knowledge, going from bare theoretical understanding to practical working implementations. The goal was never to get things right on the first try; it was to learn and realize new ideas in multiple passes.
