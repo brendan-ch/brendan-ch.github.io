@@ -6,11 +6,11 @@ isIndexPage: 1
 
 # Brendan Chen
 
-**I'm Brendan, a recently graduated Software Engineering student who attended [Chapman University](https://chapman.edu/).** I was previously a digital technology intern at [Cargill](https://cargill.com), working in the Branded Feed business to create new digital experiences. I'm also the creator of [Interchange](https://interchange.bchen.dev), a free app to streamline the Chapman transit experience.
+I'm Brendan, a recently graduated Software Engineering student who attended Chapman University. I'm currently an associate software engineer at Cargill. I'm also the creator of [OpenAppLock](https://github.com/brendan-ch/OpenAppLock), an open-source time blocker for iOS, and [Interchange](https://interchange.bchen.dev), a free shuttle app for Chapman students.
 
-I see myself as a technologist interested in creating with software and learning from others. I view programming as a creative outlet: one where I continuously [wrangle the machine](https://blog.jsbarretto.com/post/on-llms) to create a boring solution.
+In my free time, I build apps and write on my blog, A New Error. I believe that no matter which path an app's development takes, it should be grounded in real experiences.
 
-You may [email me](mailto:me@bchen.dev), or check out my projects on [Gitea](https://gitea.bchen.dev/brendan) or [GitHub](https://github.com/brendan-ch). I’m also on [LinkedIn](https://linkedin.com/in/brendan-ch).
+Feel free to [say hi](mailto:brendan@bchen.dev)!
 
 <div class="horizontal-wrapper">
     <a class="primary-action" href="/projects">View projects</a>
