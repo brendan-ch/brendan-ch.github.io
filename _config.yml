@@ -1,3 +1,5 @@
+exclude: [ '_includes/notes_graph.json' ]
+
 plugins:
   - jekyll-last-modified-at
 
