@@ -10,7 +10,7 @@ Resonance is a cyberpunk-themed game show shooter. Enter the arena, blast your o
 
 The project was part of the [[IEEE GameSig]] showcase for 2026.
 
-The project was also part of the [[Chapman University]] [[Chapman University game development|game development]] capstone. No, I was not a part of the game development program. I just helped out because I had free time.
+The project was also part of the [[Chapman University]] game development capstone. No, I was not a part of the game development program. I just helped out because I had free time.
 
 My core role was to implement the game’s networking logic using PurrNet, an open-source library for Unity.
 
