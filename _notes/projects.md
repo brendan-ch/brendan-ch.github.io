@@ -34,8 +34,3 @@ categories: "- '[[Website pages]]'"
 - [[Tad-Pool]]
     - Created for FullyBeyond 2024
     - A mobile app designed to make carpooling easier for college students
-
-## Work
-
-- [[The Farmer's Dog Trivia Game]]
-    - A Windows kiosk application designed to connect customers with the Farmer's Dog experience
