@@ -1,6 +1,5 @@
 ---
 title: teech.ai
-layout: project
 ---
 
 <iframe width="100%" height="480" src="https://www.youtube-nocookie.com/embed/luVIdLB9id0?si=1sTE9Z3MeyWntRmd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

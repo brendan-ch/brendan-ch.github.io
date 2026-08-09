@@ -1,6 +1,5 @@
 ---
 title: Don't Wake Sandie
-layout: project
 ---
 
 <iframe style="width: 100%; height: 400px; border-radius: 1px; pointer-events: auto; background-color: white;" src="https://www.linkedin.com/embed/feed/update/urn:li:activity:7274629268624551936?compact=true" frameborder="0" sandbox="allow-scripts allow-popups allow-top-navigation-by-user-activation allow-forms allow-same-origin allow-storage-access-by-user-activation allow-popups-to-escape-sandbox" allowfullscreen=""></iframe>

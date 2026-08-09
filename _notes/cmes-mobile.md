@@ -1,9 +1,8 @@
 ---
 title: CMES Mobile App
-layout: project
 ---
 
-![cmes-mobile-app.png](assets/cmes-mobile-app.png "Screenshots of the CMES app, showing the My Library screen and a web view.")
+![cmes-mobile-app.png](../assets/projects/cmes-mobile-app.png "Screenshots of the CMES app, showing the My Library screen and a web view.")
 
 **App development project for volunteer organization Techies Without Borders.** I helped implement the CMES mobile app, facilitating the download, viewing and playback of medical education content in resource-constrained countries.
 

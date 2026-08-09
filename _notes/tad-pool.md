@@ -1,9 +1,8 @@
 ---
 title: Tad-Pool
-layout: project
 ---
 
-![tad-pool.png](assets/tad-pool.png "Screenshots of Tad-Pool, a carpooling app for college students.")
+![tad-pool.png](../assets/projects/tad-pool.png "Screenshots of Tad-Pool, a carpooling app for college students.")
 
 **A mobile app designed to make carpooling easier for college students.** Find
 carpools based on time and location, and get rewarded for helping to reduce CO2

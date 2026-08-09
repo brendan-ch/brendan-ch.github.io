@@ -1,9 +1,8 @@
 ---
 title: Interchange
-layout: project
 ---
 
-![interchange-screenshots.png](assets/interchange-screenshots.png "Screenshots of Interchange.")
+![interchange-screenshots.png](../assets/projects/interchange-screenshots.png "Screenshots of Interchange.")
 
 **An iOS app for college transit, currently available for Chapman University.**
 View routes, shuttle locations, and estimated arrival times in a sleek,

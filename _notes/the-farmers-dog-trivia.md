@@ -1,9 +1,8 @@
 ---
 title: The Farmer's Dog Trivia Game
-layout: project
 ---
 
-![farmers-dog.png](assets/farmers-dog.png)
+![farmers-dog.png](../assets/projects/farmers-dog.png)
 
 **A Windows kiosk application designed to connect customers with the Farmer's
 Dog experience.** Play the interactive trivia game, score points, and win swag!

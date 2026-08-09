@@ -1,9 +1,8 @@
 ---
 title: Power to the People
-layout: project
 ---
 
-![power-to-the-people.png](assets/power-to-the-people.png "Screenshots of Power to the People, an iOS app designed to make traffic stops safer.")
+![power-to-the-people.png](../assets/projects/power-to-the-people.png "Screenshots of Power to the People, an iOS app designed to make traffic stops safer.")
 
 **An iPhone app designed to make traffic stops safer for marginalized communities.** Record interactions with police, assign and text emergency contacts, and be informed of your rights. I worked in a student team of 4, including [David Sohn](https://www.linkedin.com/in/sohn-david/), [Jacob Zamore](https://www.linkedin.com/in/jacob-zamore/), and [Patrick Smith](https://www.linkedin.com/in/patrick-smith-ld/), to prototype and build a proof of concept in 36 hours. The app was selected for the **President's Pick award** at [CruzHacks 2024](https://cruzhacks.com/), the premier hackathon of UC Santa Cruz.
 
