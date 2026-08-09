@@ -1,20 +1,14 @@
 ---
-title: Don't Wake Sandie
+title: "Don't Wake Sandie"
+categories: "- '[[Website pages]]'\n- '[[Projects]]'"
 ---
 
-<iframe style="width: 100%; height: 400px; border-radius: 1px; pointer-events: auto; background-color: white;" src="https://www.linkedin.com/embed/feed/update/urn:li:activity:7274629268624551936?compact=true" frameborder="0" sandbox="allow-scripts allow-popups allow-top-navigation-by-user-activation allow-forms allow-same-origin allow-storage-access-by-user-activation allow-popups-to-escape-sandbox" allowfullscreen=""></iframe>
+This is Sandie, and this is actually her game, not my team's.
 
-**A game about not waking up a hungover corgi named Sandie.** Gather 2-4 people,
-roll to determine order, and take turns to pet Sandie. Don’t wake her
-up…*or else*.
+![A close-up picture of a corgi named Sandie.](/assets/img/dont-wake-sandie.png)
 
-I worked on gameplay programming in Unity, and collaborated with
-[Nicole Citardi](https://www.linkedin.com/in/nicole-citardi-16104a222/),
-[Veronica Lan](https://www.linkedin.com/in/veronicalan/), and
-[Daniel Ahn](https://www.linkedin.com/in/daniel-ahn-bb2326262/) to coordinate
-UI development, artwork integration, and version control. There were so many
-moving parts, and I really aimed to get as much input for the gameplay design
-as I could from the team.
-
+Gather 2-4 people, roll to determine order, and take turns to pet Sandie. Don’t wake her up…*or else*.
+  
+I worked on gameplay programming in Unity, and collaborated with [Nicole Citardi](https://www.linkedin.com/in/nicole-citardi-16104a222/), [Veronica Lan](https://www.linkedin.com/in/veronicalan/), and [Daniel Ahn](https://www.linkedin.com/in/daniel-ahn-bb2326262/) to coordinate UI development, artwork integration, and version control. There were several moving parts, and I aimed to get as much input for the gameplay design as I could from the team.  
+  
 [Play the game on itch.io!](https://bchendev.itch.io/dont-wake-sandie)
-
