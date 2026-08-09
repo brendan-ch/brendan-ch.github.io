@@ -3,7 +3,7 @@ title: "Don't Wake Sandie"
 categories: "- '[[Website pages]]'\n- '[[Projects]]'"
 ---
 
-This is Sandie, and this is actually her game, not my team's.
+Meet Sandie. This is actually her game, not my team's.
 
 ![A close-up picture of a corgi named Sandie.](/assets/img/dont-wake-sandie.png)
 
