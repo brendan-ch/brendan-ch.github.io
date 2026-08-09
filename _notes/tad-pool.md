@@ -6,7 +6,8 @@ title: Tad-Pool
 
 **A mobile app designed to make carpooling easier for college students.** Find
 carpools based on time and location, and get rewarded for helping to reduce CO2
-emissions. I worked with [Jazmine Stanek](https://www.linkedin.com/in/vjazminestanek/)
+emissions. I worked
+with [Jazmine Stanek](https://www.linkedin.com/in/vjazminestanek/)
 and [Isabelle Woo](https://www.linkedin.com/in/isabellewoo/) to create the UI/UX
 design using Figma and FigJam, in a period of 24 hours for
 [FullyBeyond 2024](https://fullybeyond.acmcsuf.com/).
@@ -14,7 +15,7 @@ design using Figma and FigJam, in a period of 24 hours for
 The project reached the finalist judging stage.
 
 - [High-fidelity design](https://www.figma.
-com/design/nTKCcwftKrg27wlP5mmy9e/Tad-Pool-Design?node-id=13-1837&node-type=canvas&t=YKuVvM6RAPs4hTIo-11)
+  com/design/nTKCcwftKrg27wlP5mmy9e/Tad-Pool-Design?node-id=13-1837&node-type=canvas&t=YKuVvM6RAPs4hTIo-11)
 - [Low-fidelity design](https://www.figma.
   com/design/nTKCcwftKrg27wlP5mmy9e/Tad-Pool-Design?node-id=0-1&node-type=canvas&t=YKuVvM6RAPs4hTIo-11)
 - [FigJam board](https://www.figma.
