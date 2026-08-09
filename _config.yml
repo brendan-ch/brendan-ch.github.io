@@ -1,0 +1,20 @@
+exclude: [ '_includes/notes_graph.json' ]
+
+plugins:
+  - jekyll-last-modified-at
+
+open_external_links_in_new_tab: true
+use_html_extension: false
+permalink: pretty
+relative_permalinks: false
+
+collections:
+  notes:
+    output: true
+    permalink: /:slug/
+
+defaults:
+  - scope:
+      path: "_notes/**/*.md"
+    values:
+      layout: "note"

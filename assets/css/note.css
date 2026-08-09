@@ -1,0 +1,12 @@
+.backlink-divider {
+    color: var(--color-background-2);
+}
+
+.backlink-box {
+    display: flex;
+    flex-direction: column;
+}
+
+.backlinks {
+
+}

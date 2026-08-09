@@ -1,3 +1,18 @@
 :root {
-    --background-color: #f4f4f4;
+    --color-background-1: #f4f4f4;
+    --color-background-2: #e4e4e4;
+    --color-primary-1: #000000;
+    --color-accent: #008891;
+    --color-accent-hover: #539397;
 }
+
+@media (prefers-color-scheme: dark) {
+    :root {
+        --color-background-1: #171616;
+        --color-background-2: #222222;
+        --color-primary-1: #eeeeee;
+        --color-accent: #00B7C3;
+        --color-accent-hover: #70c1c6;
+    }
+}
+

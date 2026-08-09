@@ -9,3 +9,4 @@ vendor/
 
 # macOS
 .DS_Store
+/_includes/notes_graph.json
