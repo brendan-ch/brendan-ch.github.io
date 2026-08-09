@@ -4,12 +4,12 @@
 @import url('content.css');
 
 html {
-    background-color: var(--background-color);
+    background-color: var(--color-background);
 }
 
 body {
     font-family: 'FormaDJRText', sans-serif;
-    color: black;
+    color: var(--color-primary);
 
     display: flex;
     flex-direction: column;
@@ -36,7 +36,6 @@ footer {
 
     padding-bottom: 32px;
     padding-top: 64px;
-    color: dimgray;
 }
 
 a {

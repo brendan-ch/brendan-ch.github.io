@@ -8,21 +8,21 @@
 }
 
 .primary-action {
-    background: black;
+    background: var(--color-primary);
     padding: 0.8em;
-    color: white;
+    color: var(--color-background);
     text-decoration-line: unset;
     border-radius: 4px;
     border-style: solid;
     border-width: 1px;
-    border-color: black;
+    border-color: var(--color-primary);
     box-sizing: border-box;
 }
 
 .secondary-action {
     border-width: 1px;
     border-style: solid;
-    border-color: black;
+    border-color: var(--color-primary);
     padding: 0.8em;
     text-decoration-line: unset;
     border-radius: 4px;
