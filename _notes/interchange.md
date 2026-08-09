@@ -3,7 +3,7 @@ categories: "- '[[Apps and websites]]'\n- '[[Projects]]'"
 title: Interchange
 ---
 
-![](/assets/img/interchange.png)
+![Screenshots of the app showing the routes list and page.](/assets/img/interchange.png)
 
 **An iOS app for college transit, currently available for Chapman University.** View routes, shuttle locations, and estimated arrival times in a sleek, easy-to-use interface. I built this app using SwiftUI, Node.js and Apollo GraphQL, with Redis as a primary storage mechanism.
 
