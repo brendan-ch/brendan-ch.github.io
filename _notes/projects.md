@@ -5,40 +5,34 @@ title: Projects
 ## Games
 
 - [[Resonance]]
-    - **IEEE GameSig Finalist**, 2026
     - A cyberpunk-themed game show shooter.
 - [[Don't Wake Sandie]]
-    - A game about not waking up a beloved hungover corgi
+    - A game about not waking up a beloved hungover corgi.
 
-## Personal
+## Personal and community
 
 - [[Interchange]]
-    - An iOS app for college transit, now on the App Store!
+    - An iOS app for college transit. [Download on the App Store](https://apps.apple.com/us/app/interchange-college-commute/id6739968742).
 - [[Timestamp]]
-    - An unintrusive, open source Pomodoro timer for macOS.
+    - An unintrusive, open source Pomodoro timer for macOS. [Download available through GitHub](https://github.com/brendan-ch/timestamp/releases).
 - [[Sourcebook]]
     - A lightweight content management system (CMS) for class websites.
+- [[CMES Mobile App]]
+    - A cross-platform mobile app to deliver educational medical content to end users.
 
 ## Hackathons
 
 - [[teech.ai]]
-    - Cal Hacks 12.0
-    - A tutoring app to make education more accessible, built with SwiftUI and
-      Gemini Vision API.
+    - Created for Cal Hacks 12.0
+    - A tutoring app to make education more accessible, built with SwiftUI and Gemini Vision API.
 - [[Power to the People]]
-    - **President's Pick**, CruzHacks 2024
-    - An iOS app designed to make traffic stops safer for marginalized
-      communities.
+    - Won the President's Pick for CruzHacks 2024
+    - An iOS app designed to make traffic stops safer for marginalized communities.
+- [[Tad-Pool]]
+    - Created for FullyBeyond 2024
+    - A mobile app designed to make carpooling easier for college students.
 
 ## Work
 
 - [[The Farmer's Dog Trivia Game]]
-    - A Windows kiosk application designed to connect customers with the
-      Farmer's Dog experience.
-
-## Community
-
-- [[CMES Mobile App]]
-    - One of my earliest projects. A cross-platform mobile app to deliver
-      educational medical content to end users, part
-      of [Techies Without Borders](https://techieswithoutborders.us/).
+    - A Windows kiosk application designed to connect customers with the Farmer's Dog experience.
