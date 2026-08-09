@@ -2,7 +2,7 @@
 title: Sourcebook
 ---
 
-![sourcebook.png](../assets/projects/sourcebook.png "Screenshot of Sourcebook, a lightweight CMS for class websites.")
+![sourcebook.png](../assets/project/sourcebook.png "Screenshot of Sourcebook, a lightweight CMS for class websites.")
 
 **A lightweight content management system (CMS) designed to build class
 websites.** I designed it to be a self-hosted alternative for popular apps like

@@ -2,7 +2,7 @@
 title: Resonance
 ---
 
-![resonance-screenshot.png](../assets/projects/resonance-screenshot.png "Screenshot of Resonance")
+![resonance-screenshot.png](../assets/project/resonance-screenshot.png "Screenshot of Resonance")
 
 Resonance is a cyberpunk-themed game show shooter. Enter the arena, blast your opponents, and become the star of the show. I worked with a student team of 12 to create this game over multiple months. The game was selected as an **IEEE GameSig finalist**.
 
