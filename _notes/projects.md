@@ -12,14 +12,15 @@ categories: "- '[[Website pages]]'"
 
 ## Personal and community
 
+- [[OpenAppLock]]
+    - An open source iOS app for blocking apps
+    - [Download on the App Store](https://apps.apple.com/us/app/openapplock/id6780259647)
 - [[Interchange]]
     - An iOS app for college transit
     - [Download on the App Store](https://apps.apple.com/us/app/interchange-college-commute/id6739968742)
 - [[Timestamp]]
     - An unintrusive, open source Pomodoro timer for macOS
     - [Download available through GitHub](https://github.com/brendan-ch/timestamp/releases)
-- [[Sourcebook]]
-    - A lightweight content management system (CMS) for class websites
 - [[CMES Mobile App]]
     - A cross-platform mobile app to deliver educational medical content to end users
 
