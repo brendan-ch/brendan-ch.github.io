@@ -3,7 +3,7 @@ title: Tad-Pool
 categories: "- '[[Website pages]]'\n- '[[Projects]]'"
 ---
 
-![](/assets/img/tad-pool.png)
+![Screenshots of Tad-Pool, a carpooling app for college students.](/assets/img/tad-pool.png)
 
 **A mobile app designed to make carpooling easier for college students.** Find carpools based on time and location, and get rewarded for helping to reduce CO2  
 emissions. I worked with [Jazmine Stanek](https://www.linkedin.com/in/vjazminestanek/)  
