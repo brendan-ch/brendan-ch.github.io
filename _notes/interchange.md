@@ -9,7 +9,7 @@ View routes, shuttle locations, and estimated arrival times in a sleek,
 easy-to-use interface. I built this app using SwiftUI, Node.js and Apollo
 GraphQL, with Redis as a primary storage mechanism.
 
-[Download on the App Store](https://apps.apple.com/us/app/interchange-college-commute/id6739968742){: .primary-action }
-[Join the TestFlight](https://testflight.apple.com/join/HbuHfUgW){: .secondary-action }
-[Website](https://interchange.bchen.dev/){: .secondary-action }
-{: .horizontal-wrapper }
+- [Download on the App Store](https://apps.apple.com/us/app/interchange-college-commute/id6739968742)
+- [Join the TestFlight](https://testflight.apple.com/join/HbuHfUgW)
+- [Website](https://interchange.bchen.dev/)
+

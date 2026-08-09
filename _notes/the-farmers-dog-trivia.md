@@ -14,5 +14,4 @@ screens for the app using React Native for Windows.
 for web/app development. He’s knowledgeable and efficient, and his task
 management skills make him an ideal project member." — Walter Cheng, project overseer
 
-[The Farmer’s Dog](https://thefarmersdog.com/){: .primary-action }
-{: .horizontal-wrapper }
+[The Farmer’s Dog](https://thefarmersdog.com/)

@@ -12,8 +12,8 @@ The app's front-end uses Capacitor and Angular, with several Capacitor plugins i
 
 This app is actively used in medical facilities in Uganda and Nepal, to name a few.
 
-[App Store](https://apps.apple.com/us/app/cmes/id1276335909){: .primary-action }
-[Google Play](https://play.google.com/store/apps/details?id=org.cmesworld.www.cmes_piandroid_app){: .primary-action }
-[Techies Without Borders](https://techieswithoutborders.us/){: .secondary-action }
-[CMES Project](https://cmesworld.org/){: .secondary-action }
-{: .horizontal-wrapper }
+- [App Store](https://apps.apple.com/us/app/cmes/id1276335909)
+- [Google Play](https://play.google.com/store/apps/details?id=org.cmesworld.www.cmes_piandroid_app)
+- [Techies Without Borders](https://techieswithoutborders.us/)
+- [CMES Project](https://cmesworld.org/)
+

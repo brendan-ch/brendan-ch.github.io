@@ -16,5 +16,5 @@ UI development, artwork integration, and version control. There were so many
 moving parts, and I really aimed to get as much input for the gameplay design
 as I could from the team.
 
-[itch.io (play the game!)](https://bchendev.itch.io/dont-wake-sandie){: .primary-action }
-{: .horizontal-wrapper }
+[Play the game on itch.io!](https://bchendev.itch.io/dont-wake-sandie)
+

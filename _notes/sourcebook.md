@@ -12,5 +12,5 @@ I designed an entity-relationship diagram, MySQL database schema, and HTML/CSS
 high-fidelity prototype to support the project and show to professors. I then
 built a lightweight full-stack application using Python, Flask, and MySQL.
 
-[GitHub](https://github.com/brendan-ch/sourcebook){: .primary-action }
-{: .horizontal-wrapper }
+[GitHub](https://github.com/brendan-ch/sourcebook)
+

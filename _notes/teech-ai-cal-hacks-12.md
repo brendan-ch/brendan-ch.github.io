@@ -12,7 +12,7 @@ I built a native proof-of-concept using SwiftUI, AVFoundation, and other native 
 
 The app was built in 48 hours for **Cal Hacks 12.0**, the world's largest collegiate hackathon.
 
-[GitHub](https://github.com/brendan-ch/teecher-ios){: .primary-action }
-[Devpost](https://devpost.com/software/teech-ai){: .secondary-action }
-[Cal Hacks](https://www.calhacks.io){: .secondary-action }
-{: .horizontal-wrapper }
+- [GitHub](https://github.com/brendan-ch/teecher-ios)
+- [Devpost](https://devpost.com/software/teech-ai)
+- [Cal Hacks](https://www.calhacks.io)
+
