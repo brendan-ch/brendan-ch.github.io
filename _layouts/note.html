@@ -6,12 +6,14 @@ layout: default
 
 {{ content }}
 
-<div>
+<hr class="backlink-divider">
+
+<div class="backlink-box">
     {% if page.backlinks.size > 0 %}
     <h3>Notes mentioning this note</h3>
     <div>
         {% for backlink in page.backlinks %}
-        <div class="backlink-box">
+        <div class="backlinks">
             <a class="internal-link" href="{{ site.baseurl }}{{ backlink.url }}{%- if site.use_html_extension -%}.html{%- endif -%}">{{ backlink.title }}</a><br>
         </div>
         {% endfor %}
