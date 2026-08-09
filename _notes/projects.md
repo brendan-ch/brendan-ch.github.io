@@ -1,38 +1,41 @@
 ---
 title: Projects
+categories: "- '[[Website pages]]'"
 ---
 
 ## Games
 
 - [[Resonance]]
-    - A cyberpunk-themed game show shooter.
+    - A cyberpunk-themed game show shooter
 - [[Don't Wake Sandie]]
-    - A game about not waking up a beloved hungover corgi.
+    - A game about not waking up a beloved hungover corgi
 
 ## Personal and community
 
 - [[Interchange]]
-    - An iOS app for college transit. [Download on the App Store](https://apps.apple.com/us/app/interchange-college-commute/id6739968742).
+    - An iOS app for college transit
+    - [Download on the App Store](https://apps.apple.com/us/app/interchange-college-commute/id6739968742)
 - [[Timestamp]]
-    - An unintrusive, open source Pomodoro timer for macOS. [Download available through GitHub](https://github.com/brendan-ch/timestamp/releases).
+    - An unintrusive, open source Pomodoro timer for macOS
+    - [Download available through GitHub](https://github.com/brendan-ch/timestamp/releases)
 - [[Sourcebook]]
-    - A lightweight content management system (CMS) for class websites.
+    - A lightweight content management system (CMS) for class websites
 - [[CMES Mobile App]]
-    - A cross-platform mobile app to deliver educational medical content to end users.
+    - A cross-platform mobile app to deliver educational medical content to end users
 
 ## Hackathons
 
 - [[teech.ai]]
     - Created for Cal Hacks 12.0
-    - A tutoring app to make education more accessible, built with SwiftUI and Gemini Vision API.
+    - A tutoring app to make education more accessible, built with SwiftUI and Gemini Vision API
 - [[Power to the People]]
     - Won the President's Pick for CruzHacks 2024
-    - An iOS app designed to make traffic stops safer for marginalized communities.
+    - An iOS app designed to make traffic stops safer for marginalized communities
 - [[Tad-Pool]]
     - Created for FullyBeyond 2024
-    - A mobile app designed to make carpooling easier for college students.
+    - A mobile app designed to make carpooling easier for college students
 
 ## Work
 
 - [[The Farmer's Dog Trivia Game]]
-    - A Windows kiosk application designed to connect customers with the Farmer's Dog experience.
+    - A Windows kiosk application designed to connect customers with the Farmer's Dog experience
