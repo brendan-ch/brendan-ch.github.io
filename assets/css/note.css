@@ -10,3 +10,12 @@
 .backlinks {
 
 }
+
+.invalid-link {
+    opacity: 80%;
+    cursor: help;
+}
+
+.invalid-link-brackets {
+    opacity: 20%;
+}
