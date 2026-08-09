@@ -1,6 +1,8 @@
 ---
 title: Brendan Chen
 permalink: /
+categories: "- '[[Personal website]]'"
+layout: default
 ---
 
 I'm Brendan, a recently graduated software engineering student who attended [[Chapman University]]. I'm currently an associate software engineer at Cargill. I'm also the creator of [[OpenAppLock]], an open-source time blocker for iOS, and [[Interchange]], a free shuttle app for Chapman students.
