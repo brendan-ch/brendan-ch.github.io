@@ -9,7 +9,7 @@ html {
 }
 
 body {
-    font-family: 'FormaDJRText', sans-serif;
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Inter, Ubuntu, sans-serif;
     color: var(--color-primary-1);
 
     display: flex;
@@ -48,8 +48,8 @@ p,
 a,
 ul,
 ol {
-    letter-spacing: 0.2px;
-    line-height: 24px;
+    line-height: 32px;
+    font-size: 18px;
 }
 
 h1,
@@ -60,7 +60,7 @@ h5,
 h6 {
     margin-top: 2em;
     margin-bottom: 0.5em;
-    font-family: 'FormaDJRDisplay', sans-serif;
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Inter, Ubuntu, sans-serif;
 }
 
 h1 {

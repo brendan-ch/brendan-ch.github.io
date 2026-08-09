@@ -4,14 +4,15 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
-    <script defer src="https://sassy-fulmar.pikapod.net/script.js" data-website-id="479f6086-eaaf-46c8-a365-78a53a066682"></script>
+    <script defer src="https://sassy-fulmar.pikapod.net/script.js"
+            data-website-id="479f6086-eaaf-46c8-a365-78a53a066682"></script>
 
-    <link rel="icon" type="image/png" href="/assets/favicon-96x96.png" sizes="96x96" />
-    <link rel="icon" type="image/svg+xml" href="/assets/favicon.svg" />
-    <link rel="shortcut icon" href="/assets/favicon.ico" />
-    <link rel="apple-touch-icon" sizes="180x180" href="/assets/apple-touch-icon.png" />
-    <meta name="apple-mobile-web-app-title" content="Brendan Chen" />
-    <link rel="manifest" href="/assets/site.webmanifest" />
+    <link rel="icon" type="image/png" href="/assets/favicon-96x96.png" sizes="96x96"/>
+    <link rel="icon" type="image/svg+xml" href="/assets/favicon.svg"/>
+    <link rel="shortcut icon" href="/assets/favicon.ico"/>
+    <link rel="apple-touch-icon" sizes="180x180" href="/assets/apple-touch-icon.png"/>
+    <meta name="apple-mobile-web-app-title" content="Brendan Chen"/>
+    <link rel="manifest" href="/assets/site.webmanifest"/>
     <link rel="stylesheet" href="/assets/css/global.css">
 
     <meta name="theme-color" content="#f4f4f4">
@@ -19,16 +20,19 @@
     <title>{{ page.title }}</title>
 </head>
 <body>
-    <header>
-        {% include navigation.html %}
-    </header>
-    <main>
-        {{ content }}
-    </main>
-    <footer>
-        copyright 2025 Brendan Chen |
+<header>
+    {% include navigation.html %}
+</header>
+<main>
+    {{ content }}
+</main>
+<footer>
+    <p>
+        <!-- see https://stackoverflow.com/questions/12464656/get-todays-date-in-jekyll-with-liquid-markup -->
+        copyright {{ site.time | date: '%Y' }} Brendan Chen |
         <a target="_blank" href="https://github.com/brendan-ch">GitHub</a> |
         <a target="_blank" href="https://linkedin.com/in/brendan-ch">LinkedIn</a> | e: me [at] bchen.dev
-    </footer>
+    </p>
+</footer>
 </body>
 </html>
