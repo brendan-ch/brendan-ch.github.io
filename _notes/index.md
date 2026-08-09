@@ -10,4 +10,4 @@ Feel free to [say hi](mailto:brendan@bchen.dev)!
 - [[Projects]]
 - [View my resume](https://bchen.dev/assets/resume.pdf)
 
-![file:/Users/bchendev/Developer/brendan-ch.github.io/assets/me-1.png](file:///Users/bchendev/Developer/brendan-ch.github.io/assets/me-1.png)
+![Picture of me taken at the Senso-ji Buddhist Temple in Asakusa, Tokyo, Japan](/assets/img/index.png)
