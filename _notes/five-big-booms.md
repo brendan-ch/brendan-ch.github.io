@@ -1,9 +1,8 @@
 ---
 categories: "- '[[Website pages]]'"
+title: Five big booms
 ---
 
-At the Atlanta Beltline.
+At the Atlanta Beltline in summer 2025.
 
-(to test the image compression workflow)
-
-![](/assets/img/five-big-booms.png)
+![Graffiti saying "let me get, five big booms!"](/assets/img/five-big-booms.png)
