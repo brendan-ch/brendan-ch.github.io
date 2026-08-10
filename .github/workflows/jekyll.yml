@@ -50,6 +50,7 @@ jobs:
         env:
           JEKYLL_ENV: production
       - name: Push image optimizations onto main
+        continue-on-error: true
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
