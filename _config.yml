@@ -2,6 +2,7 @@ exclude: [ '_includes/notes_graph.json' ]
 
 plugins:
   - jekyll-last-modified-at
+  - jekyll-compress-images
 
 open_external_links_in_new_tab: true
 use_html_extension: false
