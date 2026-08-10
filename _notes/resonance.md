@@ -6,9 +6,7 @@ title: Resonance
 
 Resonance is a cyberpunk-themed game show shooter. Enter the arena, blast your opponents, and become the star of the show. I worked with a student team of 12 to create this game over multiple months. The game was selected as an **IEEE GameSig finalist**.
 
-![](/assets/img/resonance.png)
-
-The project was part of the [[IEEE GameSig]] showcase for 2026.
+![Screenshot of the game's primary map.](/assets/img/resonance.png)
 
 The project was also part of the [[Chapman University]] game development capstone. No, I was not a part of the game development program. I just helped out because I had free time.
 
