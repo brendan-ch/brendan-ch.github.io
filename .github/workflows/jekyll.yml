@@ -15,8 +15,9 @@ on:
   workflow_dispatch:
 
 # Sets permissions of the GITHUB_TOKEN to allow deployment to GitHub Pages
+# Set write permission to allow the workflow to push image optimizations
 permissions:
-  contents: read
+  contents: write
   pages: write
   id-token: write
 
@@ -43,22 +44,19 @@ jobs:
       - name: Setup Pages
         id: pages
         uses: actions/configure-pages@v5
-      - name: Restore optimized images from cache
-        uses: actions/cache/restore@v4
-        with:
-          path: ./_site/assets/img
-          key: images
       - name: Build with Jekyll
         # Outputs to the './_site' directory by default
         run: bundle exec jekyll build --baseurl "${{ steps.pages.outputs.base_path }}"
         env:
           JEKYLL_ENV: production
-      - name: Save images to cache
-        if: steps.cache-unity.outputs.cache-hit != 'true'
-        uses: actions/cache/save@v4
-        with:
-          path: ./_site/assets/img
-          key: images
+      - name: Push image optimizations onto main
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git switch main
+          git add assets/img
+          git commit -m "chore: optimize images"
+          git push
       - name: Upload artifact
         # Automatically uploads an artifact from the './_site' directory by default
         uses: actions/upload-pages-artifact@v3
