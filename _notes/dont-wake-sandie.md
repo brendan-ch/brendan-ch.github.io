@@ -3,7 +3,7 @@ title: "Don't Wake Sandie"
 categories: "- '[[Website pages]]'\n- '[[Projects]]'"
 ---
 
-Meet Sandie. This is actually her game, not my team's.
+Meet Sandie, the best dog at [[Chapman University]]. This is actually her game, not my team's.
 
 ![A close-up picture of a corgi named Sandie.](/assets/img/dont-wake-sandie.png)
 
