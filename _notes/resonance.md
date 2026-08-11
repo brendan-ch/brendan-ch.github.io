@@ -12,9 +12,9 @@ The project was also part of the [[Chapman University]] game development capston
 
 My core role was to implement the game’s networking logic using [[PurrNet]], an open-source library for Unity.
 
-My first project was to implement networking for **Arena**, a free-for-all PVP game mode, where the player with the most eliminations wins. I learned how to isolate game logic on the server and synchronize state on each client. The networked API for Arena is used by every aspect of the game, including the scoreboard UI and spotlight mechanic. Following a pivot in the game’s core direction, I successfully handed this system to another engineer, who implemented a rating system for style points.
+My first project was to implement networking for **Arena**, a free-for-all PVP game mode, where the player with the most eliminations wins. I learned how to isolate game logic on the server and synchronize state on each client.
 
-Another project was the **build system**. Having a server dependency and Steam integration meant that the environment differed from development to production. We found it painful to prepare a build for each class-mandated playtest. With the help of Claude, I created a two-step system: an editor script to build and configure dependencies in one step, and a nightly GitHub Actions pipeline. Besides simplifying the build process, this created another positive side effect by ensuring we fixed compiler issues proactively.
+Another project was the **build system**. Having a server dependency and Steam integration meant that the environment differed from development to production. We found it painful to prepare a build for each class-mandated playtest. I used Claude to create a two-step system including an editor script and a GitHub Actions pipeline.
 
 I’m currently working on a client-side prediction model to match other FPS games on the market.
 
