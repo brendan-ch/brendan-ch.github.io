@@ -1,5 +1,5 @@
 ---
-categories: "- '[[Apps and websites]]'\n- '[[Projects]]'"
+categories: "- '[[Apps, websites and tools]]'"
 title: Interchange
 ---
 
