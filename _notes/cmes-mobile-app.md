@@ -1,7 +1,7 @@
 ---
 title: CMES Mobile App
 related: "- '[[CMES]]'"
-categories: "- '[[Projects]]'\n- '[[Website pages]]'"
+categories: "- '[[Website pages]]'\n- '[[Apps, websites and tools]]'"
 ---
 
 ![Screenshots of the CMES app, showing the My Library screen and a web view.](/assets/img/cmes-mobile-app.png)
