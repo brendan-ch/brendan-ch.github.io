@@ -1,11 +1,14 @@
 ---
-categories: "- '[[Apps, websites and tools]]'"
+categories: "- '[[Apps, websites and tools]]'\n- '[[Projects]]'\n- '[[Website pages]]'"
 title: Interchange
+status: - ongoing
 ---
 
 ![Screenshots of the app showing the routes list and page.](/assets/img/interchange.png)
 
-**An iOS app for college transit, currently available for Chapman University.** View routes, shuttle locations, and estimated arrival times in a sleek, easy-to-use interface. I built this app using SwiftUI, Node.js and Apollo GraphQL, with Redis as a primary storage mechanism.
+Interchange is an iOS application for college transit at [[Chapman University]]. I used SwiftUI to build the frontend and Node.js for the backend.
+
+The app started as an alternative to Chapman's primary app for shuttles, [Passio GO!](https://passiogo.com/). Later, I added the ability to track parking information over time based on the public [Chapman parking data](https://www.chapman.edu/campus-services/parking-services/index.aspx).
 
 - [Download on the App Store](https://apps.apple.com/us/app/interchange-college-commute/id6739968742)  
 - [Join the TestFlight](https://testflight.apple.com/join/HbuHfUgW)  
