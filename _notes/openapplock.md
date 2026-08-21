@@ -1,13 +1,23 @@
 ---
-categories: "- '[[Projects]]'\n- '[[Website pages]]'"
+categories: "- '[[Website pages]]'\n- '[[Apps, websites and tools]]'\n- '[[Projects]]'"
 source: "https://github.com/brendan-ch/openapplock"
 related: ""
 title: OpenAppLock
+status: - ongoing
 ---
 
 ![Screenshots of OpenAppLock, including the home page with three active rules, and the new rule page with rule templates.](/assets/img/openapplock-1.png)
 
 OpenAppLock is an open source iOS app for blocking apps. Block apps on a schedule, add time or open limits, and lock rules to prevent edits. I built it to help me spend more time outside staring at grass, like the picture below.
+
+Some of the design principles of OpenAppLock:
+
+- Completely offline, no account needed, nothing is tracked
+- The app is meant to sit in the *background* of your phone
+    - You're meant to *not* use it, along with using your phone less
+    - Set the rules once, and let the app work
+- Future considerations
+    - Integrate nature as part of the app design?
 
 I worked with the different Apple screen time APIs to build the features in a privacy-preserving way.
 
