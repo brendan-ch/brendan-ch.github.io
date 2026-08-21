@@ -1,7 +1,5 @@
 ---
-categories: "- '[[Apps, websites and tools]]'\n- '[[Projects]]'\n- '[[Website pages]]'"
 title: Interchange
-status: - ongoing
 ---
 
 ![Screenshots of the app showing the routes list and page.](/assets/img/interchange.png)
