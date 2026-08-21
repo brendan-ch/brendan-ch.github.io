@@ -3,7 +3,7 @@ categories: "- '[[Website pages]]'\n- '[[Apps, websites and tools]]'\n- '[[Proje
 source: "https://github.com/brendan-ch/openapplock"
 related: ""
 title: OpenAppLock
-status: - ongoing
+status: "- ongoing"
 ---
 
 ![Screenshots of OpenAppLock, including the home page with three active rules, and the new rule page with rule templates.](/assets/img/openapplock-1.png)
