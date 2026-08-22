@@ -1,5 +1,6 @@
 ---
 title: Brendan Chen
+permalink: /
 ---
 
 I'm Brendan, a software engineer.
