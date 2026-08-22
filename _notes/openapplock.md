@@ -4,7 +4,7 @@ title: OpenAppLock
 
 ![Screenshots of OpenAppLock, including the home page with three active rules, and the new rule page with rule templates.](/assets/img/openapplock-1.png)
 
-OpenAppLock is an open source iOS app for blocking apps. It is also a vibe-coding experiment turned real app, after I decided against gatekeeping it.
+**OpenAppLock is an open source iOS app for blocking apps.** It is also a vibe-coding experiment turned real app, after I decided against gatekeeping it.
 
 Block apps on a schedule, add time or open limits, and lock rules to prevent edits. I built it to help me spend more time outside staring at grass, like the picture below.
 
